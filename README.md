@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sachixdev/LEETCODE/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/sachixdev/LEETCODE/tree/master/0009-palindrome-number) |
 | [3099-harshad-number](https://github.com/sachixdev/LEETCODE/tree/master/3099-harshad-number) |
 ## Array
 |  |
