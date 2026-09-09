@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/sachixdev/LEETCODE/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sachixdev/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sachixdev/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
