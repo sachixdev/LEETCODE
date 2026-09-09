@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
