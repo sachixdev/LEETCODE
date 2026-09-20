@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sachixdev/LEETCODE/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sachixdev/LEETCODE/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sachixdev/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sachixdev/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
