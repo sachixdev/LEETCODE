@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachixdev/LEETCODE/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/sachixdev/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sachixdev/LEETCODE/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sachixdev/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachixdev/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sachixdev/LEETCODE/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sachixdev/LEETCODE/tree/master/0125-valid-palindrome) |
