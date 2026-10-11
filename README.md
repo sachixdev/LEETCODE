@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/sachixdev/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sachixdev/LEETCODE/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/sachixdev/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sachixdev/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/sachixdev/LEETCODE/tree/master/3099-harshad-number) |
 ## Array
@@ -19,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachixdev/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/sachixdev/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +31,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sachixdev/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sachixdev/LEETCODE/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sachixdev/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sachixdev/LEETCODE/tree/master/0344-reverse-string) |
 ## Binary Search
