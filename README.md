@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachixdev/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/sachixdev/LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
