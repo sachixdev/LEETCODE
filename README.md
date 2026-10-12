@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/sachixdev/LEETCODE/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/sachixdev/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sachixdev/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/sachixdev/LEETCODE/tree/master/3099-harshad-number) |
 ## Array
@@ -23,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachixdev/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachixdev/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/sachixdev/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -42,10 +44,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -64,6 +68,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -116,6 +121,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sachixdev/LEETCODE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
