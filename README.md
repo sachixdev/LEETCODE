@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachixdev/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sachixdev/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/sachixdev/LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -32,6 +33,7 @@
 | [0031-next-permutation](https://github.com/sachixdev/LEETCODE/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sachixdev/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sachixdev/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sachixdev/LEETCODE/tree/master/0344-reverse-string) |
 ## Binary Search
