@@ -22,6 +22,7 @@
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachixdev/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 ## Quicksort
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachixdev/LEETCODE/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 ## Stack
@@ -130,4 +133,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachixdev/LEETCODE/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
