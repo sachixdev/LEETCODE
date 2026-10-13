@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/sachixdev/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/sachixdev/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sachixdev/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/sachixdev/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sachixdev/LEETCODE/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sachixdev/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sachixdev/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
