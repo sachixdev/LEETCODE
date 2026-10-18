@@ -20,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachixdev/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sachixdev/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sachixdev/LEETCODE/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachixdev/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
@@ -153,6 +155,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachixdev/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
