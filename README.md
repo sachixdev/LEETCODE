@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sachixdev/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sachixdev/LEETCODE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sachixdev/LEETCODE/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/sachixdev/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
@@ -20,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sachixdev/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sachixdev/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sachixdev/LEETCODE/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sachixdev/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sachixdev/LEETCODE/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -69,6 +71,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sachixdev/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sachixdev/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
