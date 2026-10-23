@@ -35,6 +35,7 @@
 | [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sachixdev/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sachixdev/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachixdev/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -90,6 +91,7 @@
 | [0075-sort-colors](https://github.com/sachixdev/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sachixdev/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
@@ -150,6 +152,7 @@
 | [0001-two-sum](https://github.com/sachixdev/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachixdev/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sachixdev/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -168,10 +171,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sachixdev/LEETCODE/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sachixdev/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sachixdev/LEETCODE/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
