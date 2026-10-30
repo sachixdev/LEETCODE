@@ -70,6 +70,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/sachixdev/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sachixdev/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/sachixdev/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sachixdev/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Pigeonhole Principle
 |  |
